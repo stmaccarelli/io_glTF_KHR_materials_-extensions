@@ -5,7 +5,7 @@ bl_info = {
     "category": "Material",
     'location': 'Object > Refraction Depth From Volume',
     'description': 'Calculate and assign "refraction depth" material setting from active object bounding box volume.',
-    'tracker_url': "https://github.com/KhronosGroup/glTF-Blender-IO/issues/",
+    'tracker_url': "https://github.com/stmaccarelli/blender_utils/issues/",
     'isDraft': False,
     'developer': "stmaccarelli", 
     'url': 'https://stefano-maccarelli.com', 

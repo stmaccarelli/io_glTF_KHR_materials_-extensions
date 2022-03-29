@@ -7,7 +7,7 @@ bl_info = {
     "blender": (2, 80, 0),
     'location': 'File > Export > glTF 2.0',
     'description': 'Add KHR_materials_volume and KHR_materials_ior to glTF exporter.',
-    'tracker_url': "https://github.com/KhronosGroup/glTF-Blender-IO/issues/",
+    'tracker_url': "https://github.com/stmaccarelli/io_GLTF_KHR_materials_extensions/issues/",
     'isDraft': False,
     'developer': "stmaccarelli", 
     'url': 'https://stefano-maccarelli.com', 
