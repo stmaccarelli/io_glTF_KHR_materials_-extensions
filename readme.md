@@ -23,12 +23,12 @@ This addon works correctly with Eevee only.
 
 Blender Scene
 ---
-Set Eevee as Render Engine in Blender.
-Set the scene, meshes, materials as you'd normally do.
-The refractive materials must have a Principled BSDF material.
-Set the Transmission and IOR properties of that Principled BSDF material the way you need.
-Set the material's refraction depth in material Settings panel, this will set thicknessFactor in KHR_materials_volume extension. 
-Note that different objects that need different thicknessFactor(s) must have unique materials.
+-Set Eevee as Render Engine in Blender.
+-Set the scene, meshes, materials as you'd normally do.
+-The refractive materials must have a Principled BSDF material.
+-Set the Transmission and IOR properties of that Principled BSDF material the way you need.
+-Set the material's refraction depth in material Settings panel, this will set thicknessFactor in KHR_materials_volume extension. 
+-Note that different objects that need different thicknessFactor(s) must have unique materials.
 
 <img width="1271" alt="Blender Scene - material" src="https://user-images.githubusercontent.com/1394193/160586341-f4e63966-076e-4750-9f74-cce5128748f9.png">
 <img width="1271" alt="Blender Scene - materia settings" src="https://user-images.githubusercontent.com/1394193/160586366-25ccecf7-7965-45fb-99da-ae902e2a5eab.png">
